@@ -1,0 +1,5 @@
+This week I only used AI for one thing. I am incredidbly bad at using the proper form of their or there.
+I had a very long paper for another class that included many theirs and theres. I used Claude to help me with this.
+i pasted my paper into claude and asked for it to point  out any of the times I used the improper form of there/their.
+It returned 3 or 4 instances of where i used the wrong one, and explained why it was wrong. 
+I then made all the edits to my paper and got a better insight on how to use the proper form of their/there
