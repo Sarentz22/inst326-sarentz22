@@ -1,3 +1,4 @@
+Journal 1-----------------------------
 I used Ai much less this week compared to some weeks in the past.
 I did use it to help me cooking however, I had a chat about the engriedients I had and Claude created a great dinner recipe based off the ingredients in my house. 
 The prompt was "What would you do with salmon a lemon a shallot spinach and Trader Joe’s vacuole Pepe gnocchi"
@@ -7,3 +8,13 @@ Pan-Seared Salmon with Lemon Spinach Gnocchi...
 Start the gnocchi: Pan-fry the Trader Joe's gnocchi in a large skillet with some olive oil until golden and crispy on the outside. Remove and set aside. "
 
 I also used it to help me add a 10k training plan into my workout routine. I gave it many small adjustments like cheange days based off fatuige, what I should do if i miss a day, and the best way i could train to reduce fatuige. 
+
+Journal 2-----------------------------
+This week I only used AI for one thing. I am incredidbly bad at using the proper form of their or there.
+I had a very long paper for another class that included many theirs and theres. I used Claude to help me with this.
+i pasted my paper into claude and asked for it to point  out any of the times I used the improper form of there/their.
+It returned 3 or 4 instances of where i used the wrong one, and explained why it was wrong. 
+I then made all the edits to my paper and got a better insight on how to use the proper form of their/there
+
+Journal 3------------------------------
+
