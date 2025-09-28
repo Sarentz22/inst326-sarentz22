@@ -17,4 +17,8 @@ It returned 3 or 4 instances of where i used the wrong one, and explained why it
 I then made all the edits to my paper and got a better insight on how to use the proper form of their/there
 
 Journal 3------------------------------
-
+This week I used AI to help plan my busy week. I first told Claude to listen to a bullet point list of all of the things I had to complete last week. I included times and dates that each task needed to be completed as well.
+After that I asked Claude to create a daily schedule based around my class schedule that I pasted into the chat.
+I noticed this is where the language started to struggle as I am assuming it is not that proficent at reading photos of things yet.
+I noticed that Claude went over some of my classes and scheduled things during class. I used this schedule for the rest of the week after some tweaks though and it worked out great. 
+I also once again used chatgpt for some grammar look overs and to review a paper I wrote. It worked great and as intended!
