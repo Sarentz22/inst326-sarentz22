@@ -22,3 +22,6 @@ After that I asked Claude to create a daily schedule based around my class sched
 I noticed this is where the language started to struggle as I am assuming it is not that proficent at reading photos of things yet.
 I noticed that Claude went over some of my classes and scheduled things during class. I used this schedule for the rest of the week after some tweaks though and it worked out great. 
 I also once again used chatgpt for some grammar look overs and to review a paper I wrote. It worked great and as intended!
+*edited while doing week 3 exercises
+I did notice that I had to use google/ai for help with the week three exercises more then I would of liked. I think I struggled with these concepts in particular because we have past what I am doing in another coding class I am taking at this time.
+It has been a considerable amount of time since I used these concepts in practice so using a AI aid helped me a good bit on problems I was very stuck on.
