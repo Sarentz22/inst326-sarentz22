@@ -25,3 +25,9 @@ I also once again used chatgpt for some grammar look overs and to review a paper
 *edited while doing week 3 exercises
 I did notice that I had to use google/ai for help with the week three exercises more then I would of liked. I think I struggled with these concepts in particular because we have past what I am doing in another coding class I am taking at this time.
 It has been a considerable amount of time since I used these concepts in practice so using a AI aid helped me a good bit on problems I was very stuck on.
+
+Journal 4------------------------------
+This week I used AI to assist me at work. I had to create a couple of Jira automation tasks and I use AI to help me with the Jira Query language syntax as well as guiding me through a lot of the things I need to complete. 
+Jira can be very very tricky and it is definetley a topic that most models are trained well on whatsover. I do find that there are many many more mistakes then my usual AI endeavors when using it for JIRA help.
+I was still abel to get tons of help and useful information from Claude to assist me however. 
+I also used AI a bit to help my with my class exercises. I find having Claude help with the debugging allows me to see other viewpoints on how to complete tasks that can be very beneficial. 
