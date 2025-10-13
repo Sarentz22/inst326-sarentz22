@@ -31,3 +31,9 @@ This week I used AI to assist me at work. I had to create a couple of Jira autom
 Jira can be very very tricky and it is definetley a topic that most models are trained well on whatsover. I do find that there are many many more mistakes then my usual AI endeavors when using it for JIRA help.
 I was still abel to get tons of help and useful information from Claude to assist me however. 
 I also used AI a bit to help my with my class exercises. I find having Claude help with the debugging allows me to see other viewpoints on how to complete tasks that can be very beneficial. 
+
+Journal 5------------------------------
+This week I used AI to help me understand a line of code that I'd been struggling with. I had a sorting function that used "key=lambda x: x["total"]" and while I could use it,
+I didn't really understand how it worked. After asking AI to break it down, I learned that lambda creates an anonymous function, and the key parameter tells sort()
+which value to use for comparison. In this case, it extracts the "total" field from each user dictionary, and reverse=True orders them from highest to lowest. It's helpful to
+finally understand the syntax instead of just copying it from examples.
