@@ -37,3 +37,8 @@ This week I used AI to help me understand a line of code that I'd been strugglin
 I didn't really understand how it worked. After asking AI to break it down, I learned that lambda creates an anonymous function, and the key parameter tells sort()
 which value to use for comparison. In this case, it extracts the "total" field from each user dictionary, and reverse=True orders them from highest to lowest. It's helpful to
 finally understand the syntax instead of just copying it from examples.
+
+Journal 6------------------------------
+This week I used AI to assist me with selecting songs for a little DJ set I prrepared for a friends party. I used a AI music analyser called Mixed in Key that scans music to tag it based on BPM and Key the song is in. 
+This was a great help as my DJ software does this itself but does it very poorly. The AI software is particulary good at the sort of music I play compared to other song analysis softwater because the AI is mostly trained on 
+my specific genre of music. Going foward I will be excited to see it get even better at song description and analysis. 
