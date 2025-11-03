@@ -42,3 +42,7 @@ Journal 6------------------------------
 This week I used AI to assist me with selecting songs for a little DJ set I prrepared for a friends party. I used a AI music analyser called Mixed in Key that scans music to tag it based on BPM and Key the song is in. 
 This was a great help as my DJ software does this itself but does it very poorly. The AI software is particulary good at the sort of music I play compared to other song analysis softwater because the AI is mostly trained on 
 my specific genre of music. Going foward I will be excited to see it get even better at song description and analysis. 
+Journal 7-------------------------------
+This week I used AI to help me with my league of legends builds. I played a couple games with my friends and wanted to try out some new builds and playstyles. I used Claude to help find some fun bot lane combos that my friends and I could try out. 
+Claude gave me some champion pairs that worked well together, and explained how their abilities could combo in lane and fights. I really wanted to try some weird picks that other players wouldn't expect but could still work. 
+Using AI to find these builds was way faster than looking everything up myself or watching a bunch of videos, so I could play with my friends sooner.
