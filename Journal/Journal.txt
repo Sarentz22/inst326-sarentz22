@@ -47,3 +47,8 @@ Journal 7-------------------------------
 This week I used AI to help me with my league of legends builds. I played a couple games with my friends and wanted to try out some new builds and playstyles. I used Claude to help find some fun bot lane combos that my friends and I could try out. 
 Claude gave me some champion pairs that worked well together, and explained how their abilities could combo in lane and fights. I really wanted to try some weird picks that other players wouldn't expect but could still work. 
 Using AI to find these builds was way faster than looking everything up myself or watching a bunch of videos, so I could play with my friends sooner.
+
+Journal 8-------------------------------
+This week I used AI to help me learn chess. I have always been really bad at turn based board games like chess or checkers because of my attention span as well as missing things. I used it to help me with some solutions for puzzles. I found it very funny how awful reasoning models are at playiong chess. 
+This caused me to do a deep dive on why resoning models dont like playing chess. Reasoning models struggle at chess because they don’t calculate deep move sequences like specialized chess engines do. They rely on general logic and language patterns instead of actually analyzing the board.
+As a result, they often miss tactics or make blunders that a dedicated chess engine would easily avoid.
