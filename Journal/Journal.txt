@@ -57,3 +57,8 @@ Journal 9-------------------------------
 This week I used AI to help set up my friendsgiving. We had over 20 people at my friendsgiving this year so we had to make a way that all the food could still be presented and everyones dish is tried. To do this I asked AI to seperate my friendsgiving meals by starters and main dishes.
 It was able to easily sort things like sliders and dips into the starter section, and entrees like meats and pot pies into a main course section. Then I was able to find what wines paried with the foods the best by asking Claude. 
 I was impressed that it was able to give logical reasons why certain wines were better for some foods. I though its knowledge on that would be cloudy and strange at best.
+
+Journal 10------------------------------
+This week I used AI to help me proofread a group paper I had to do almost all by myself. I uploaded my draft to Claude and asked it to catch grammar mistakes, awkward sentences, and formatting issues.
+The AI found several errors I'd missed and suggested clearer wording in some sections, which was really helpful since I'd been staring at the document for hours. It saved me a lot of time and made the final paper way more polished.
+Using AI for proofreading was a lifesaver when I didn't have actual group members to help review my work.
